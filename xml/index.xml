@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <note>
+    <title>Template System</title>
+    <website>Special Feature</website>
+    <content>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+        Nullam dapibus fermentum ipsum. Pellentesque habitant morbi tristique 
+        senectus et netus et malesuada fames ac turpis egestas. Mauris elementum
+        mauris vitae tortor. Aliquam erat volutpat. Fusce nibh. Etiam posuere
+        lacus quis dolor. Etiam dui sem, fermentum vitae, sagittis id,
+        malesuada in, quam. Fusce consectetuer risus a nunc. 
+        Praesent in mauris eu tortor porttitor accumsan. 
+        Sed elit dui, pellentesque a, faucibus vel, interdum nec, diam. 
+        Etiam quis quam. </content>
+        <buttontext>Next</buttontext>
+</note>
